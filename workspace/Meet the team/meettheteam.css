@@ -1,0 +1,27 @@
+img{
+    width:165px;
+    height:120px;
+    }
+body{
+ text-align:center;  
+ background-color:#28324E
+;
+ color:#EFEFEF;
+ font-size:25px;
+    }    
+    
+ h1{
+ color:#54ACD2;    
+     }   
+ul{
+list-style:none;    
+    }     
+    
+.teamt{
+    border-style:dotted;
+    margin-left:400px;
+    margin-right:400px;
+
+    
+    }    
+    

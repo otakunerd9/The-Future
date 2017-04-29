@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+body{
+   background-image:url("http://i.vimeocdn.com/video/310301165_1280x720.jpg");
+   background-color:black;
+   background-repeat:no-repeat;
+   background-size:cover;
+    }
+button{
+    width:221px;
+    height:50px;
+   background-color:#aac4ef;
+   color:#011638;
+   font-size:30px;
+   font-family:roboto condensed;
+   position:relative;
+    margin-top:18em;
+    border: 3px solid blue;
+   }    
+  
+.support{
+margin-top:30px;
+font-size:30px;
+    }

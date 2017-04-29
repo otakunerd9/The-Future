@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee|Press+Start+2P');
+
+body{
+  background-color: #28324E;
+}
+
+#witchcraft{
+    border-color: #28324E;
+    color: white;
+    background: #28324E;
+ text-align: center;
+ font-family: 'Press Start 2p';
+ font-size: 25px; 
+ width: 100%;
+}
+
+#li{
+    font-family: 'Bungee';
+    color:white;
+    text-align:center;
+ font-size: 40px;
+}
+
+a{
+    
+ color: white;   
+}
+
+img{
+   width: 100%; 
+   height: 100%;
+}
+
+#blank{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Bungee';
+ color:white;   
+}
